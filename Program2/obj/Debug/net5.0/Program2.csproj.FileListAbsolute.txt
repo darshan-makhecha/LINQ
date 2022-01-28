@@ -1,0 +1,16 @@
+E:\office\LINQ\Program2\bin\Debug\net5.0\Program2.exe
+E:\office\LINQ\Program2\bin\Debug\net5.0\Program2.deps.json
+E:\office\LINQ\Program2\bin\Debug\net5.0\Program2.runtimeconfig.json
+E:\office\LINQ\Program2\bin\Debug\net5.0\Program2.runtimeconfig.dev.json
+E:\office\LINQ\Program2\bin\Debug\net5.0\Program2.dll
+E:\office\LINQ\Program2\bin\Debug\net5.0\ref\Program2.dll
+E:\office\LINQ\Program2\bin\Debug\net5.0\Program2.pdb
+E:\office\LINQ\Program2\obj\Debug\net5.0\Program2.csproj.AssemblyReference.cache
+E:\office\LINQ\Program2\obj\Debug\net5.0\Program2.GeneratedMSBuildEditorConfig.editorconfig
+E:\office\LINQ\Program2\obj\Debug\net5.0\Program2.AssemblyInfoInputs.cache
+E:\office\LINQ\Program2\obj\Debug\net5.0\Program2.AssemblyInfo.cs
+E:\office\LINQ\Program2\obj\Debug\net5.0\Program2.csproj.CoreCompileInputs.cache
+E:\office\LINQ\Program2\obj\Debug\net5.0\Program2.dll
+E:\office\LINQ\Program2\obj\Debug\net5.0\ref\Program2.dll
+E:\office\LINQ\Program2\obj\Debug\net5.0\Program2.pdb
+E:\office\LINQ\Program2\obj\Debug\net5.0\Program2.genruntimeconfig.cache

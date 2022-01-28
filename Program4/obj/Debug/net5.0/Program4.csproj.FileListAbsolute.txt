@@ -1,0 +1,16 @@
+E:\office\LINQ\Program4\bin\Debug\net5.0\Program4.exe
+E:\office\LINQ\Program4\bin\Debug\net5.0\Program4.deps.json
+E:\office\LINQ\Program4\bin\Debug\net5.0\Program4.runtimeconfig.json
+E:\office\LINQ\Program4\bin\Debug\net5.0\Program4.runtimeconfig.dev.json
+E:\office\LINQ\Program4\bin\Debug\net5.0\Program4.dll
+E:\office\LINQ\Program4\bin\Debug\net5.0\ref\Program4.dll
+E:\office\LINQ\Program4\bin\Debug\net5.0\Program4.pdb
+E:\office\LINQ\Program4\obj\Debug\net5.0\Program4.csproj.AssemblyReference.cache
+E:\office\LINQ\Program4\obj\Debug\net5.0\Program4.GeneratedMSBuildEditorConfig.editorconfig
+E:\office\LINQ\Program4\obj\Debug\net5.0\Program4.AssemblyInfoInputs.cache
+E:\office\LINQ\Program4\obj\Debug\net5.0\Program4.AssemblyInfo.cs
+E:\office\LINQ\Program4\obj\Debug\net5.0\Program4.csproj.CoreCompileInputs.cache
+E:\office\LINQ\Program4\obj\Debug\net5.0\Program4.dll
+E:\office\LINQ\Program4\obj\Debug\net5.0\ref\Program4.dll
+E:\office\LINQ\Program4\obj\Debug\net5.0\Program4.pdb
+E:\office\LINQ\Program4\obj\Debug\net5.0\Program4.genruntimeconfig.cache

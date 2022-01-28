@@ -1,0 +1,15 @@
+E:\office\LINQ\prg3\bin\Debug\net5.0\prg3.exe
+E:\office\LINQ\prg3\bin\Debug\net5.0\prg3.deps.json
+E:\office\LINQ\prg3\bin\Debug\net5.0\prg3.runtimeconfig.json
+E:\office\LINQ\prg3\bin\Debug\net5.0\prg3.runtimeconfig.dev.json
+E:\office\LINQ\prg3\bin\Debug\net5.0\prg3.dll
+E:\office\LINQ\prg3\bin\Debug\net5.0\ref\prg3.dll
+E:\office\LINQ\prg3\bin\Debug\net5.0\prg3.pdb
+E:\office\LINQ\prg3\obj\Debug\net5.0\prg3.GeneratedMSBuildEditorConfig.editorconfig
+E:\office\LINQ\prg3\obj\Debug\net5.0\prg3.AssemblyInfoInputs.cache
+E:\office\LINQ\prg3\obj\Debug\net5.0\prg3.AssemblyInfo.cs
+E:\office\LINQ\prg3\obj\Debug\net5.0\prg3.csproj.CoreCompileInputs.cache
+E:\office\LINQ\prg3\obj\Debug\net5.0\prg3.dll
+E:\office\LINQ\prg3\obj\Debug\net5.0\ref\prg3.dll
+E:\office\LINQ\prg3\obj\Debug\net5.0\prg3.pdb
+E:\office\LINQ\prg3\obj\Debug\net5.0\prg3.genruntimeconfig.cache
