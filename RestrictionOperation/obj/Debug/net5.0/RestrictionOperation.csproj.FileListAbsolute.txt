@@ -1,0 +1,15 @@
+E:\office\LINQ\LINQ\RestrictionOperation\bin\Debug\net5.0\RestrictionOperation.exe
+E:\office\LINQ\LINQ\RestrictionOperation\bin\Debug\net5.0\RestrictionOperation.deps.json
+E:\office\LINQ\LINQ\RestrictionOperation\bin\Debug\net5.0\RestrictionOperation.runtimeconfig.json
+E:\office\LINQ\LINQ\RestrictionOperation\bin\Debug\net5.0\RestrictionOperation.runtimeconfig.dev.json
+E:\office\LINQ\LINQ\RestrictionOperation\bin\Debug\net5.0\RestrictionOperation.dll
+E:\office\LINQ\LINQ\RestrictionOperation\bin\Debug\net5.0\ref\RestrictionOperation.dll
+E:\office\LINQ\LINQ\RestrictionOperation\bin\Debug\net5.0\RestrictionOperation.pdb
+E:\office\LINQ\LINQ\RestrictionOperation\obj\Debug\net5.0\RestrictionOperation.GeneratedMSBuildEditorConfig.editorconfig
+E:\office\LINQ\LINQ\RestrictionOperation\obj\Debug\net5.0\RestrictionOperation.AssemblyInfoInputs.cache
+E:\office\LINQ\LINQ\RestrictionOperation\obj\Debug\net5.0\RestrictionOperation.AssemblyInfo.cs
+E:\office\LINQ\LINQ\RestrictionOperation\obj\Debug\net5.0\RestrictionOperation.csproj.CoreCompileInputs.cache
+E:\office\LINQ\LINQ\RestrictionOperation\obj\Debug\net5.0\RestrictionOperation.dll
+E:\office\LINQ\LINQ\RestrictionOperation\obj\Debug\net5.0\ref\RestrictionOperation.dll
+E:\office\LINQ\LINQ\RestrictionOperation\obj\Debug\net5.0\RestrictionOperation.pdb
+E:\office\LINQ\LINQ\RestrictionOperation\obj\Debug\net5.0\RestrictionOperation.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+E:\office\LINQ\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+E:\office\LINQ\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+E:\office\LINQ\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+E:\office\LINQ\ConsoleApp1\bin\Debug\EntityFramework.dll
+E:\office\LINQ\ConsoleApp1\bin\Debug\EntityFramework.SqlServer.dll
+E:\office\LINQ\ConsoleApp1\bin\Debug\EntityFramework.xml
+E:\office\LINQ\ConsoleApp1\bin\Debug\EntityFramework.SqlServer.xml
+E:\office\LINQ\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+E:\office\LINQ\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\office\LINQ\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CopyComplete
+E:\office\LINQ\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+E:\office\LINQ\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
