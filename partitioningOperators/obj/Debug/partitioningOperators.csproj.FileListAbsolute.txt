@@ -1,0 +1,6 @@
+E:\office\LINQ\LINQ\partitioningOperators\bin\Debug\partitioningOperators.exe.config
+E:\office\LINQ\LINQ\partitioningOperators\bin\Debug\partitioningOperators.exe
+E:\office\LINQ\LINQ\partitioningOperators\bin\Debug\partitioningOperators.pdb
+E:\office\LINQ\LINQ\partitioningOperators\obj\Debug\partitioningOperators.csproj.CoreCompileInputs.cache
+E:\office\LINQ\LINQ\partitioningOperators\obj\Debug\partitioningOperators.exe
+E:\office\LINQ\LINQ\partitioningOperators\obj\Debug\partitioningOperators.pdb

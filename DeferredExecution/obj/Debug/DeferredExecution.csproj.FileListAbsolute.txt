@@ -1,0 +1,6 @@
+E:\office\LINQ\LINQ\DeferredExecution\bin\Debug\DeferredExecution.exe.config
+E:\office\LINQ\LINQ\DeferredExecution\bin\Debug\DeferredExecution.exe
+E:\office\LINQ\LINQ\DeferredExecution\bin\Debug\DeferredExecution.pdb
+E:\office\LINQ\LINQ\DeferredExecution\obj\Debug\DeferredExecution.csproj.CoreCompileInputs.cache
+E:\office\LINQ\LINQ\DeferredExecution\obj\Debug\DeferredExecution.exe
+E:\office\LINQ\LINQ\DeferredExecution\obj\Debug\DeferredExecution.pdb

@@ -1,0 +1,6 @@
+E:\office\LINQ\LINQ\OrderingOperators\bin\Debug\OrderingOperators.exe.config
+E:\office\LINQ\LINQ\OrderingOperators\bin\Debug\OrderingOperators.exe
+E:\office\LINQ\LINQ\OrderingOperators\bin\Debug\OrderingOperators.pdb
+E:\office\LINQ\LINQ\OrderingOperators\obj\Debug\OrderingOperators.csproj.CoreCompileInputs.cache
+E:\office\LINQ\LINQ\OrderingOperators\obj\Debug\OrderingOperators.exe
+E:\office\LINQ\LINQ\OrderingOperators\obj\Debug\OrderingOperators.pdb

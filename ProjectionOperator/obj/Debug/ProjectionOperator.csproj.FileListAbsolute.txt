@@ -1,0 +1,7 @@
+E:\office\LINQ\LINQ\ProjectionOperator\bin\Debug\ProjectionOperator.exe.config
+E:\office\LINQ\LINQ\ProjectionOperator\bin\Debug\ProjectionOperator.exe
+E:\office\LINQ\LINQ\ProjectionOperator\bin\Debug\ProjectionOperator.pdb
+E:\office\LINQ\LINQ\ProjectionOperator\obj\Debug\ProjectionOperator.csproj.AssemblyReference.cache
+E:\office\LINQ\LINQ\ProjectionOperator\obj\Debug\ProjectionOperator.csproj.CoreCompileInputs.cache
+E:\office\LINQ\LINQ\ProjectionOperator\obj\Debug\ProjectionOperator.exe
+E:\office\LINQ\LINQ\ProjectionOperator\obj\Debug\ProjectionOperator.pdb

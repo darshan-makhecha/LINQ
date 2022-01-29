@@ -1,0 +1,6 @@
+E:\office\LINQ\LINQ\ProjectionOperatorSelectMany\bin\Debug\ProjectionOperatorSelectMany.exe.config
+E:\office\LINQ\LINQ\ProjectionOperatorSelectMany\bin\Debug\ProjectionOperatorSelectMany.exe
+E:\office\LINQ\LINQ\ProjectionOperatorSelectMany\bin\Debug\ProjectionOperatorSelectMany.pdb
+E:\office\LINQ\LINQ\ProjectionOperatorSelectMany\obj\Debug\ProjectionOperatorSelectMany.csproj.CoreCompileInputs.cache
+E:\office\LINQ\LINQ\ProjectionOperatorSelectMany\obj\Debug\ProjectionOperatorSelectMany.exe
+E:\office\LINQ\LINQ\ProjectionOperatorSelectMany\obj\Debug\ProjectionOperatorSelectMany.pdb

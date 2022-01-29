@@ -1,0 +1,6 @@
+E:\office\LINQ\LINQ\ImplementPaging\obj\Debug\ImplementPaging.csproj.CoreCompileInputs.cache
+E:\office\LINQ\LINQ\ImplementPaging\bin\Debug\ImplementPaging.exe.config
+E:\office\LINQ\LINQ\ImplementPaging\bin\Debug\ImplementPaging.exe
+E:\office\LINQ\LINQ\ImplementPaging\bin\Debug\ImplementPaging.pdb
+E:\office\LINQ\LINQ\ImplementPaging\obj\Debug\ImplementPaging.exe
+E:\office\LINQ\LINQ\ImplementPaging\obj\Debug\ImplementPaging.pdb
