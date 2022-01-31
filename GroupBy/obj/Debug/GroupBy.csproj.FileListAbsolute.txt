@@ -1,0 +1,7 @@
+C:\Users\makhe\source\repos\GroupBy\bin\Debug\GroupBy.exe.config
+C:\Users\makhe\source\repos\GroupBy\bin\Debug\GroupBy.exe
+C:\Users\makhe\source\repos\GroupBy\bin\Debug\GroupBy.pdb
+C:\Users\makhe\source\repos\GroupBy\obj\Debug\GroupBy.csproj.AssemblyReference.cache
+C:\Users\makhe\source\repos\GroupBy\obj\Debug\GroupBy.csproj.CoreCompileInputs.cache
+C:\Users\makhe\source\repos\GroupBy\obj\Debug\GroupBy.exe
+C:\Users\makhe\source\repos\GroupBy\obj\Debug\GroupBy.pdb

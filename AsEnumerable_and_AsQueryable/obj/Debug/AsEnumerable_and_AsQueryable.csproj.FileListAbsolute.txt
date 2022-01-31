@@ -1,0 +1,12 @@
+E:\office\LINQ\LINQ\AsEnumerable_and_AsQueryable\bin\Debug\AsEnumerable_and_AsQueryable.exe.config
+E:\office\LINQ\LINQ\AsEnumerable_and_AsQueryable\bin\Debug\AsEnumerable_and_AsQueryable.exe
+E:\office\LINQ\LINQ\AsEnumerable_and_AsQueryable\bin\Debug\AsEnumerable_and_AsQueryable.pdb
+E:\office\LINQ\LINQ\AsEnumerable_and_AsQueryable\bin\Debug\EntityFramework.dll
+E:\office\LINQ\LINQ\AsEnumerable_and_AsQueryable\bin\Debug\EntityFramework.SqlServer.dll
+E:\office\LINQ\LINQ\AsEnumerable_and_AsQueryable\bin\Debug\EntityFramework.xml
+E:\office\LINQ\LINQ\AsEnumerable_and_AsQueryable\bin\Debug\EntityFramework.SqlServer.xml
+E:\office\LINQ\LINQ\AsEnumerable_and_AsQueryable\obj\Debug\AsEnumerable_and_AsQueryable.csproj.AssemblyReference.cache
+E:\office\LINQ\LINQ\AsEnumerable_and_AsQueryable\obj\Debug\AsEnumerable_and_AsQueryable.csproj.CoreCompileInputs.cache
+E:\office\LINQ\LINQ\AsEnumerable_and_AsQueryable\obj\Debug\AsEnumerable_and_AsQueryable.csproj.CopyComplete
+E:\office\LINQ\LINQ\AsEnumerable_and_AsQueryable\obj\Debug\AsEnumerable_and_AsQueryable.exe
+E:\office\LINQ\LINQ\AsEnumerable_and_AsQueryable\obj\Debug\AsEnumerable_and_AsQueryable.pdb

@@ -1,0 +1,7 @@
+E:\office\LINQ\LINQ\ConversionOpertors\bin\Debug\ConversionOpertors.exe.config
+E:\office\LINQ\LINQ\ConversionOpertors\bin\Debug\ConversionOpertors.exe
+E:\office\LINQ\LINQ\ConversionOpertors\bin\Debug\ConversionOpertors.pdb
+E:\office\LINQ\LINQ\ConversionOpertors\obj\Debug\ConversionOpertors.csproj.AssemblyReference.cache
+E:\office\LINQ\LINQ\ConversionOpertors\obj\Debug\ConversionOpertors.csproj.CoreCompileInputs.cache
+E:\office\LINQ\LINQ\ConversionOpertors\obj\Debug\ConversionOpertors.exe
+E:\office\LINQ\LINQ\ConversionOpertors\obj\Debug\ConversionOpertors.pdb

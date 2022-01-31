@@ -1,0 +1,7 @@
+E:\office\LINQ\LINQ\Cast_and_ofTypeOperators\bin\Debug\Cast_and_ofTypeOperators.exe.config
+E:\office\LINQ\LINQ\Cast_and_ofTypeOperators\bin\Debug\Cast_and_ofTypeOperators.exe
+E:\office\LINQ\LINQ\Cast_and_ofTypeOperators\bin\Debug\Cast_and_ofTypeOperators.pdb
+E:\office\LINQ\LINQ\Cast_and_ofTypeOperators\obj\Debug\Cast_and_ofTypeOperators.csproj.AssemblyReference.cache
+E:\office\LINQ\LINQ\Cast_and_ofTypeOperators\obj\Debug\Cast_and_ofTypeOperators.csproj.CoreCompileInputs.cache
+E:\office\LINQ\LINQ\Cast_and_ofTypeOperators\obj\Debug\Cast_and_ofTypeOperators.exe
+E:\office\LINQ\LINQ\Cast_and_ofTypeOperators\obj\Debug\Cast_and_ofTypeOperators.pdb
