@@ -1,0 +1,7 @@
+E:\office\LINQ\LINQ\InnerJoin\bin\Debug\InnerJoin.exe.config
+E:\office\LINQ\LINQ\InnerJoin\bin\Debug\InnerJoin.exe
+E:\office\LINQ\LINQ\InnerJoin\bin\Debug\InnerJoin.pdb
+E:\office\LINQ\LINQ\InnerJoin\obj\Debug\InnerJoin.csproj.AssemblyReference.cache
+E:\office\LINQ\LINQ\InnerJoin\obj\Debug\InnerJoin.csproj.CoreCompileInputs.cache
+E:\office\LINQ\LINQ\InnerJoin\obj\Debug\InnerJoin.exe
+E:\office\LINQ\LINQ\InnerJoin\obj\Debug\InnerJoin.pdb

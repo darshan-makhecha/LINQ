@@ -1,0 +1,6 @@
+E:\office\LINQ\LINQ\Quantifiers\bin\Debug\Quantifiers.exe.config
+E:\office\LINQ\LINQ\Quantifiers\bin\Debug\Quantifiers.exe
+E:\office\LINQ\LINQ\Quantifiers\bin\Debug\Quantifiers.pdb
+E:\office\LINQ\LINQ\Quantifiers\obj\Debug\Quantifiers.csproj.CoreCompileInputs.cache
+E:\office\LINQ\LINQ\Quantifiers\obj\Debug\Quantifiers.exe
+E:\office\LINQ\LINQ\Quantifiers\obj\Debug\Quantifiers.pdb

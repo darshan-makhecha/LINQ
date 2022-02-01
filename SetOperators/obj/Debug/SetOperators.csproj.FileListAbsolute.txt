@@ -1,0 +1,7 @@
+E:\office\LINQ\LINQ\SetOperators\bin\Debug\SetOperators.exe.config
+E:\office\LINQ\LINQ\SetOperators\bin\Debug\SetOperators.exe
+E:\office\LINQ\LINQ\SetOperators\bin\Debug\SetOperators.pdb
+E:\office\LINQ\LINQ\SetOperators\obj\Debug\SetOperators.csproj.AssemblyReference.cache
+E:\office\LINQ\LINQ\SetOperators\obj\Debug\SetOperators.csproj.CoreCompileInputs.cache
+E:\office\LINQ\LINQ\SetOperators\obj\Debug\SetOperators.exe
+E:\office\LINQ\LINQ\SetOperators\obj\Debug\SetOperators.pdb

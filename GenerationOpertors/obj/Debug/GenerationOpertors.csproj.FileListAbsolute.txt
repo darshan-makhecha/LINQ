@@ -1,0 +1,6 @@
+E:\office\LINQ\LINQ\GenerationOpertors\bin\Debug\GenerationOpertors.exe.config
+E:\office\LINQ\LINQ\GenerationOpertors\bin\Debug\GenerationOpertors.exe
+E:\office\LINQ\LINQ\GenerationOpertors\bin\Debug\GenerationOpertors.pdb
+E:\office\LINQ\LINQ\GenerationOpertors\obj\Debug\GenerationOpertors.csproj.CoreCompileInputs.cache
+E:\office\LINQ\LINQ\GenerationOpertors\obj\Debug\GenerationOpertors.exe
+E:\office\LINQ\LINQ\GenerationOpertors\obj\Debug\GenerationOpertors.pdb

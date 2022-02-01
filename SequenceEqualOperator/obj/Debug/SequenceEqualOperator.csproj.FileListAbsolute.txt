@@ -1,0 +1,6 @@
+E:\office\LINQ\LINQ\SequenceEqualOperator\bin\Debug\SequenceEqualOperator.exe.config
+E:\office\LINQ\LINQ\SequenceEqualOperator\bin\Debug\SequenceEqualOperator.exe
+E:\office\LINQ\LINQ\SequenceEqualOperator\bin\Debug\SequenceEqualOperator.pdb
+E:\office\LINQ\LINQ\SequenceEqualOperator\obj\Debug\SequenceEqualOperator.csproj.CoreCompileInputs.cache
+E:\office\LINQ\LINQ\SequenceEqualOperator\obj\Debug\SequenceEqualOperator.exe
+E:\office\LINQ\LINQ\SequenceEqualOperator\obj\Debug\SequenceEqualOperator.pdb

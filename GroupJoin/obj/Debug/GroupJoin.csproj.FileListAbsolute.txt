@@ -1,0 +1,7 @@
+E:\office\LINQ\LINQ\GroupJoin\obj\Debug\GroupJoin.csproj.AssemblyReference.cache
+E:\office\LINQ\LINQ\GroupJoin\obj\Debug\GroupJoin.csproj.CoreCompileInputs.cache
+E:\office\LINQ\LINQ\GroupJoin\bin\Debug\GroupJoin.exe.config
+E:\office\LINQ\LINQ\GroupJoin\bin\Debug\GroupJoin.exe
+E:\office\LINQ\LINQ\GroupJoin\bin\Debug\GroupJoin.pdb
+E:\office\LINQ\LINQ\GroupJoin\obj\Debug\GroupJoin.exe
+E:\office\LINQ\LINQ\GroupJoin\obj\Debug\GroupJoin.pdb

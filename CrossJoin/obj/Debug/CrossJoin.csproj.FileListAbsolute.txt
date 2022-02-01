@@ -1,0 +1,6 @@
+E:\office\LINQ\LINQ\CrossJoin\bin\Debug\CrossJoin.exe.config
+E:\office\LINQ\LINQ\CrossJoin\bin\Debug\CrossJoin.exe
+E:\office\LINQ\LINQ\CrossJoin\bin\Debug\CrossJoin.pdb
+E:\office\LINQ\LINQ\CrossJoin\obj\Debug\CrossJoin.csproj.CoreCompileInputs.cache
+E:\office\LINQ\LINQ\CrossJoin\obj\Debug\CrossJoin.exe
+E:\office\LINQ\LINQ\CrossJoin\obj\Debug\CrossJoin.pdb

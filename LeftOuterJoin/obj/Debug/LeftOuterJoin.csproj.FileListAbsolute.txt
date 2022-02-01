@@ -1,0 +1,7 @@
+E:\office\LINQ\LINQ\LeftOuterJoin\bin\Debug\LeftOuterJoin.exe.config
+E:\office\LINQ\LINQ\LeftOuterJoin\bin\Debug\LeftOuterJoin.exe
+E:\office\LINQ\LINQ\LeftOuterJoin\bin\Debug\LeftOuterJoin.pdb
+E:\office\LINQ\LINQ\LeftOuterJoin\obj\Debug\LeftOuterJoin.csproj.AssemblyReference.cache
+E:\office\LINQ\LINQ\LeftOuterJoin\obj\Debug\LeftOuterJoin.csproj.CoreCompileInputs.cache
+E:\office\LINQ\LINQ\LeftOuterJoin\obj\Debug\LeftOuterJoin.exe
+E:\office\LINQ\LINQ\LeftOuterJoin\obj\Debug\LeftOuterJoin.pdb

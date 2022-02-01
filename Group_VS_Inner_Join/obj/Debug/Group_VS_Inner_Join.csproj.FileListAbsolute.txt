@@ -1,0 +1,7 @@
+E:\office\LINQ\LINQ\Group_VS_Inner_Join\bin\Debug\Group_VS_Inner_Join.exe.config
+E:\office\LINQ\LINQ\Group_VS_Inner_Join\bin\Debug\Group_VS_Inner_Join.exe
+E:\office\LINQ\LINQ\Group_VS_Inner_Join\bin\Debug\Group_VS_Inner_Join.pdb
+E:\office\LINQ\LINQ\Group_VS_Inner_Join\obj\Debug\Group_VS_Inner_Join.csproj.AssemblyReference.cache
+E:\office\LINQ\LINQ\Group_VS_Inner_Join\obj\Debug\Group_VS_Inner_Join.csproj.CoreCompileInputs.cache
+E:\office\LINQ\LINQ\Group_VS_Inner_Join\obj\Debug\Group_VS_Inner_Join.exe
+E:\office\LINQ\LINQ\Group_VS_Inner_Join\obj\Debug\Group_VS_Inner_Join.pdb

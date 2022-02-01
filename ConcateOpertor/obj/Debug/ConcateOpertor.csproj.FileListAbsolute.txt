@@ -1,0 +1,6 @@
+E:\office\LINQ\LINQ\ConcateOpertor\bin\Debug\ConcateOpertor.exe.config
+E:\office\LINQ\LINQ\ConcateOpertor\bin\Debug\ConcateOpertor.exe
+E:\office\LINQ\LINQ\ConcateOpertor\bin\Debug\ConcateOpertor.pdb
+E:\office\LINQ\LINQ\ConcateOpertor\obj\Debug\ConcateOpertor.csproj.CoreCompileInputs.cache
+E:\office\LINQ\LINQ\ConcateOpertor\obj\Debug\ConcateOpertor.exe
+E:\office\LINQ\LINQ\ConcateOpertor\obj\Debug\ConcateOpertor.pdb
